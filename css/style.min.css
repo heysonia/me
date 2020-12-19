@@ -13,8 +13,3 @@ img[src$='#floatright']
 	margin: 25px 25px;
 	height: auto;
 }
-
-img[src$='#center']
-{
-	display: block;
-}
